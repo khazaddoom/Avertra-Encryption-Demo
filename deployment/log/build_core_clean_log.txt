@@ -1,0 +1,8 @@
+Buildfile: C:\Users\Ganesh\Documents\Mendix\Avertra - Encryption Demo\deployment\build_core.xml
+
+clean:
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
